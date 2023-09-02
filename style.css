@@ -1,0 +1,102 @@
+/* Body styling */
+
+body {
+    background-color: #f0f0f0; /* Set a background color */
+    font-family: Arial, sans-serif; /* Set a font family */
+    margin: 0;
+    padding: 0;
+}
+
+/* Header styling */
+header {
+    background-color: #333; /* Set a header background color */
+    color: #fff; /* Set text color */
+    text-align: center;
+    padding: 20px;
+
+
+}
+/* Define a custom class for the division */
+
+
+.red-text {
+    color: rgb(128, 93, 102);
+}
+
+
+/* Main content styling */
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Section styling */
+section {
+    background-color: #f1e3e3; /* Set section background color */
+    border: 1px solid #61e4e9;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.gradient-bg {
+    background: linear-gradient(to bottom, #3498db, #1abc9c);
+    color: #fff;
+    text-align: center;
+    padding: 50px;
+}
+
+
+
+/* Button styling */
+button {
+    background-color: #007bff; /* Set button background color */
+    color: #fff; /* Set button text color */
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+.hover-box {
+    background-color: #3498db;
+    padding: 20px;
+    color: #fff;
+    text-align: center;
+    transition: background-color 0.3s ease;
+}
+
+.hover-box:hover {
+    background-color: #1abc9c;
+}
+.hover-box {
+    background-color: #3498db;
+    padding: 20px;
+    color: #fff;
+    text-align: center;
+    transition: background-color 0.3s ease;
+}
+
+.hover-box:hover {
+    background-color: #111414;
+}
+
+
+/* Input styling */
+input[type="text"], select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #66e2d8;
+    border-radius: 4px;
+}
+
+/* List styling */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* Background image */
+
+.some-element {
+    background-image: url('C:\Users\user\Desktop\html and css\minibook -Lavanya  creation\images bg\gray-background-with-light-blue-background-white-light-bottom.jpg.jpg'); /* Replace with your image file name */
+}
+
